@@ -10,5 +10,5 @@ Una **RNN (Recurrent Neural Network)** es un tipo de red neuronal diseñada para
 
 ## Proyectos
 
-### **Predicción de Códigos Postales**
+### **CodigosPostales**
 Este proyecto utiliza una RNN para **predecir códigos postales escritos a mano**, ideal para experimentar con reconocimiento de patrones en secuencias y procesamiento de imágenes convertidas en secuencias.
